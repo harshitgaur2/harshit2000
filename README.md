@@ -1,16 +1,37 @@
-### Hi there 👋
+## Halo leute! Guten Tag,Ich bin da! 👋
+### Meet me, Harshit Gaur. I am a CSE Undergrad student at BVP,Delhi. Living a DevLife
 
-<!--
-**harshit2000/harshit2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on : Creative Projects 
+- 🌱 I’m currently learning: How to learn things faster and effectively
+- 👯 I’m looking to collaborate on open source projects/science competitions
+- 🤔 I’m looking for help with: NLP, Research
+- 💬 Ask me about : Anything
+- 📫 How to reach me: gaurharshit@aol.com
+- 😄 Pronouns: He/Him
+- ⚡ I am Energetic as much as your m in E=mc2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin]]
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (Connect to me on Twitter! Its amazing in here!)
+[2.1]: http://i.imgur.com/P3YfQoD.png (Let's be friend on Facebook!)
+[3.1]: http://i.imgur.com/yCsTjba.png (Drop me a mail!)
+[4.1]: http://i.imgur.com/YckIOms.png (Yes! For some reason[I was bored af], I am on Tumblr too!)
+
+
+
+[1]: http://www.twitter.com/theharshitgaur
+[2]: https://www.facebook.com/arnav.malhotra.146
+[3]: mailto:harshit.gaur2720@gmail.com
+[4]: http://gaurharshit.tumblr.com
+
