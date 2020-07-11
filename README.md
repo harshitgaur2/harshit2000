@@ -11,9 +11,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ I am Energetic as much as your m in E=mc2
 
-[![Linkedin]]
+![GitHub followers](https://img.shields.io/github/followers/harshit2000?label=Follow&style=for-the-badge)
 
-<!-- display the social media buttons in your README -->
+[![Linkedin][logo]][link]
+
+[logo]: https://img.shields.io/badge/LinkedIn-Connect%20Professinally!-blue?style=for-the-badge&logo=linkedin
+[link]:https://linkedin.in/harshitgaur2
+
+
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -34,4 +39,3 @@
 [2]: https://www.facebook.com/arnav.malhotra.146
 [3]: mailto:harshit.gaur2720@gmail.com
 [4]: http://gaurharshit.tumblr.com
-
