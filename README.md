@@ -16,7 +16,7 @@
 [![Linkedin][logo]][link]
 
 [logo]: https://img.shields.io/badge/LinkedIn-Connect%20Professinally!-blue?style=for-the-badge&logo=linkedin
-[link]:https://linkedin.in/harshitgaur2
+[link]:https://www.linkedin.com/in/harshitgaur2/
 
 
 
