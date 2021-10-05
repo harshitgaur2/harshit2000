@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning **GraphQL**
 - ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket.**
 
+<a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit2000)
 
