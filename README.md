@@ -11,6 +11,8 @@
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
+<a href="https://app.daily.dev/gaurharshit"><img src="https://api.daily.dev/devcards/78824259841c4b46a84be2738d2bec78.png?r=m9w" width="250" alt="Harshit Gaur's Dev Card"/></a>
+<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit2000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit2000&show_icons=true&theme=synthwave)
