@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning **GraphQL**
 - ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket.**
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit2000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit2000&show_icons=true&theme=synthwave)
