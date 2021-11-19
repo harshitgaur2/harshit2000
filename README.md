@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **GraphQL**
 - ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket.**
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
+
 <a href='#'>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
