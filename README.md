@@ -10,7 +10,7 @@
 
 <a href='#'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
