@@ -10,7 +10,7 @@
 
 <a href='#'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
+<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
